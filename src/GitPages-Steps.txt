@@ -1,0 +1,19 @@
+1. This tutorial assumes you already have a working react app.
+2. create an empty repo. Do not check README, .gitignore, or license.
+3. cd into your react app root directory and run `git init`
+4. run `git remote add origin <your repo url>`
+5. run npm install --save-dev gh-pages
+6. add the following to your package.json below  "version":
+"homepage": "https://<your github username>.github.io/<your repo name>",
+
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+  // other scripts
+}
+//Anytime changes are made to your app, run `npm run deploy` to update the live site.
+7. run `npm run deploy`
+8. In index.html remove instances of %PUBLIC_URL% from the code to /yourRepoName/
+9. run `npm run deploy` again
+10. GitPages should automatically deploy and display the app. 
+//If not check your app for syntax errors OR go to your repo settings and enable GitHub Pages.

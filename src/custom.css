@@ -1,0 +1,113 @@
+#root {
+  background: rgb(120, 77, 1);
+  background: linear-gradient(
+    180deg,
+    rgba(120, 77, 1, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+#currentNav {
+  color: blue !important;
+}
+
+element.style {
+}
+nav.houseNavbar.navbar.navbar-expand-lg.navbar-light.bg-light.sticky-top {
+  background-color: #ffffff8e !important;
+  backdrop-filter: blur(8px);
+}
+
+.house-list {
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  display: block;
+}
+
+.house {
+  text-align: center;
+  float: none;
+  /* margin: 0 auto; */
+  display: block;
+  background-color: rgba(255, 255, 255, 0.066);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.houseTitle {
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  display: block;
+  background-color: rgba(51, 255, 0, 0.11);
+  border-radius: 10px;
+  width: 50%;
+}
+
+::placeholder {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.houseBody {
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  display: block;
+  background-color: rgba(255, 255, 255, 0.066);
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 5px;
+  /* width: 75%; */
+}
+
+.roomsBody {
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  display: block;
+}
+
+.newRooms {
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  display: block;
+  background-color: rgba(255, 255, 255, 0.066);
+  border-radius: 10px;
+  padding-bottom: 10px;
+}
+
+.roomName,
+.roomArea {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+
+.allRooms {
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  display: block;
+  background-color: rgba(255, 255, 255, 0.066);
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /* width: 75%; */
+}
+
+.houseRoom {
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  display: block;
+  background-color: rgba(255, 255, 255, 0.066);
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 75%;
+}
