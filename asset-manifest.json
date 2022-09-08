@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Masheen88/houseAPIPUT/static/css/main.befe0757.css",
-    "main.js": "/Masheen88/houseAPIPUT/static/js/main.dc56fa2a.js",
-    "static/js/787.649e3646.chunk.js": "/Masheen88/houseAPIPUT/static/js/787.649e3646.chunk.js",
-    "index.html": "/Masheen88/houseAPIPUT/index.html",
-    "main.befe0757.css.map": "/Masheen88/houseAPIPUT/static/css/main.befe0757.css.map",
-    "main.dc56fa2a.js.map": "/Masheen88/houseAPIPUT/static/js/main.dc56fa2a.js.map",
-    "787.649e3646.chunk.js.map": "/Masheen88/houseAPIPUT/static/js/787.649e3646.chunk.js.map"
+    "main.css": "/houseAPIPUT/static/css/main.befe0757.css",
+    "main.js": "/houseAPIPUT/static/js/main.9d1a91b6.js",
+    "static/js/787.649e3646.chunk.js": "/houseAPIPUT/static/js/787.649e3646.chunk.js",
+    "index.html": "/houseAPIPUT/index.html",
+    "main.befe0757.css.map": "/houseAPIPUT/static/css/main.befe0757.css.map",
+    "main.9d1a91b6.js.map": "/houseAPIPUT/static/js/main.9d1a91b6.js.map",
+    "787.649e3646.chunk.js.map": "/houseAPIPUT/static/js/787.649e3646.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.befe0757.css",
-    "static/js/main.dc56fa2a.js"
+    "static/js/main.9d1a91b6.js"
   ]
 }
